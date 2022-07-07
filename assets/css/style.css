@@ -1,4 +1,5 @@
 /*General Style*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,10 @@
 
 body {
     background-color: #d9dcd6;
+}
+
+p {
+    font-size: 16px;
 }
 
 /*Header Style*/
@@ -49,10 +54,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/*Hero Style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +74,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main Style*/
 .content {
     width: 75%;
     display: inline-block;
@@ -118,24 +121,12 @@ p {
     max-height: 200px;
 }
 
-
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-*/
-
+/*Footer Style*/
 footer {
     padding: 30px;
     clear: both;
