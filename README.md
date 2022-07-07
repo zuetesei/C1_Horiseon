@@ -8,7 +8,7 @@ A website for a digital consulting firm whose main services include Search Engin
 * CSS
 
 ## Website 
-https://horiseon.com 
+https://zuetesei.github.io/C1_Horiseon/
 
 ## Contribution 
 Made with ❤️ by Zue Tesei 
